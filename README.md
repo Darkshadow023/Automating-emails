@@ -70,5 +70,5 @@ Before running the script, ensure you have the following:
 
 ## License
 
-This project is free to use and distribute.
+This project is licensed under GNU General Public License v3.0.
 
