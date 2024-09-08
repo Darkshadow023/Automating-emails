@@ -6,10 +6,10 @@ sender_email = "email1@gmail.com"  # change this to your own email
 password = "abcde"  # use an app-specific password if 2FA is enabled
 
 # List of recipient email addresses
-receiver_emails = ["example1@gmail.com", "example2@gmail.com", "example3@gmail.com"]
+receiver_emails = ["example1@gmail.com", "example2@gmail.com", "example3@gmail.com"] # add more in the list by adding a comma(,) and enclosing each mail in double quotes("")
 
-subject = "Hello from python email automation"
-body = "This is an automated email sent using Python."
+subject = "Hello from python email automation" # change your subject
+body = "This is an automated email sent using Python." # change your body content
 
 # Set up the server connection
 try:
